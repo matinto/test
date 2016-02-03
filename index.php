@@ -8,3 +8,4 @@
 
 echo "test";
 echo "real";
+echo "any";
