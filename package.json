@@ -17,7 +17,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node dist/app.js",
-    "build": "tsc",
+    "build": "npm install & tsc",
     "postinstall": "tsc"
   },
   "author": "",
